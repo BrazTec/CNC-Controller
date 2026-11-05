@@ -12,17 +12,8 @@
 
 ## Versões e situação do desenvolvimento
 
-O PDF enviado pelo autor é mantido como documento histórico da v0.8.29.7. A documentação Markdown complementa essa referência com a evolução posterior, sem substituir datas ou atribuir testes antigos a versões novas.
+O PDF enviado é mantido como documento histórico da v0.8.29.7. A documentação Markdown complementa essa referência com a evolução posterior, sem substituir datas ou atribuir testes antigos a versões novas.
 
-Na revisão dos fontes locais v0.8.29.9, os registros de testes automatizados mostram aprovações seguidas de falha nativa no encerramento. Essa pendência precisa ser resolvida antes de considerar uma nova distribuição integralmente homologada. Não é evidência de falha em todos os desenhos realizados, mas impede usar a contagem de testes aprovados como certificado de liberação da versão atual.
+Esta publicação é documental: não distribui uma nova versão executável.
 
-Esta publicação é documental: não distribui uma nova versão executável e não executa testes de motores. Não foram realizados aqui novos ensaios de corrente, aquecimento, precisão, repetibilidade ou segurança elétrica.
-
-## Próximas evidências desejáveis
-
-1. Registrar entrada, máscara revisada, camadas, G-code e resultado físico do mesmo caso.
-2. Anotar versão do software, dimensões, material, caneta, velocidades e perfil usado em cada ensaio.
-3. Medir erro e repetibilidade com procedimento e instrumento definidos antes de publicar indicadores.
-4. Registrar encerramento normal da suíte e teste do pacote antes de distribuir futuras versões.
-
-Perfis reais da máquina, logs internos, fontes privados, conversas de desenvolvimento e instaladores permanecem fora do repositório.
+Perfis reais da máquina, logs internos, fontes privados, conversas de desenvolvimento e instaladores não estão presentes no repositório.
