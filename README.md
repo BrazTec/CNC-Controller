@@ -81,7 +81,7 @@ Foram avaliados **LR-ASPP, DeepLabV3 e IS-Net**, sem declarar um vencedor univer
 | **Calibração Z 3×3** | **Conexão serial** |
 | ![Calibração da superfície](docs/imagens/interface_03.png) | ![Consulta e diagnóstico GRBL](docs/imagens/interface_04.png) |
 
-As capturas e o PDF documentam a **v0.8.29.7**. A operação dessa versão no equipamento foi confirmada pelo desenvolvedor. A evolução posterior dos fontes está registrada na [linha do tempo](docs/evolucao.md); a validação física não se estende automaticamente a todas as versões ou funcionalidades. [Escopo da validação](docs/validacao.md).
+As capturas e o PDF documentam a **v0.8.29.7**. A evolução posterior dos fontes está registrada na [linha do tempo](docs/evolucao.md); a validação física não se estende automaticamente a todas as versões ou funcionalidades. [Escopo da validação](docs/validacao.md).
 
 ## Documentação
 
