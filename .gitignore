@@ -218,3 +218,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Este repositório publica somente documentação e evidências
+/software/
+/app/
+/ferramentas/
+/tests/
+/.venv_seg/
+*.py
+*.pyi
+*.ipynb
+*.bat
+*.ps1
+*.exe
+*.msi
+*.zip
+*.pth
+*.onnx
+*.gcode
+.env
+*.pem
